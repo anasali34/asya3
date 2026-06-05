@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ku" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Tahoma', sans-serif;
+            text-align: center;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 50px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            max-width: 400px;
+        }
+        h1 { color: #d63384; }
+        p { font-size: 20px; color: #555; line-height: 1.8; }
+        .name { font-weight: bold; color: #ff4d6d; font-size: 24px; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>ئەسولی...</h1>
+        <p>تۆ ئەو کەسەی کە بە زەردەخەنەکەت دڵخۆشی دەبەخشیتە دەوروبەرت. 
+        <br>
+        بوونت لە ژیانمدا وەک گوڵێک وایە کە ڕۆژەکانم دەڕازێنێتەوە. 
+        <br>
+        کەسایەتیت پڕە لە جوانی، دڵپاکی و ڕەسەنایەتی. 
+        <br>
+        هەموو کات بەو شێوە جوانەی خۆت بمێنەرەوە.</p>
+    </div>
+
+</body>
+</html>
+
